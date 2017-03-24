@@ -13,6 +13,8 @@ Sample pillars
 
 Ceilometer API/controller node
 
+<script src="https://raw.githubusercontent.com/Martin819/salt-formula-ceilometer/master/tests/pillar/server_single.sls">
+
 .. code-block:: yaml
 
     ceilometer:
